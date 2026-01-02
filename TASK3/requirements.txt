@@ -1,0 +1,17 @@
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+torchaudio==2.1.2+cu121
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+diffusers==0.25.0
+transformers==4.36.2
+accelerate==0.25.0
+peft==0.7.0
+
+safetensors
+Pillow
+numpy
+opencv-python
+scipy
+tqdm
+matplotlib
